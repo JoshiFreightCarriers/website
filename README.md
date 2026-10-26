@@ -16,6 +16,7 @@ Optimized specifically for **Render Free Static Site Hosting**, Cloudflare Pages
 - **Legal Entity:** Joshi Freight Carriers
 - **Verified GSTIN:** `27AFDPJ9493A1ZE` (State Code 27, Maharashtra)
 - **MSME Udyam Registration:** `UDYAM-MH-04-0039447` (Government of India, District Dhule)
+- **Enterprise Logistics Partner:** Authorized Carrying & Forwarding (C&F), Warehousing, and Logistics Partner for **Adani Cements** (Ambuja Cement & ACC) across Dhule & Nandurbar districts.
 - **Verified Operations Phone:** `+91 94227 93077` (Clickable for mobile calling & WhatsApp)
 - **Strategic Physical Location:** Opp. Surat Bypass, Near Hotel Residency Park, Agra–Mumbai Road (NH 52 / AH 47), Dhule, Maharashtra — 424311, India.
 - **Highway Crossroads:** Intersection of **National Highway 52** (North–South Agra–Mumbai corridor) and **National Highway 53** (West–East Gujarat–Nagpur corridor).
